@@ -1,2 +1,2 @@
 # mongodb
-MongoDb with ASP.NET Class
+Class on using MongoDb with ASP.NET.
